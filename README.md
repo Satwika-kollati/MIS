@@ -4,8 +4,8 @@ This module allows undergraduate students to submit a priority list for branch c
 
 ## Project Description
 
-**Course:** Software Engineering(CSC306)
-**Instructor:** Dr Saurabh Srivastava. Assistant Professor, Indian Institute of Technology (ISM) Dhanbad.
+**Course:** Software Engineering(CSC306) <br>
+**Instructor:** Dr Saurabh Srivastava. Assistant Professor, Indian Institute of Technology (ISM) Dhanbad. <br>
 **Description:** This project is developed to be integrated as one of the modules into our ISM Dhanbad's MIS website. The module provides an easy-to-use interface for students to make informed decisions about their branch changes.
 
 ## Tech Stack Used
